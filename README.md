@@ -9,7 +9,12 @@
 - Passionate about thoughtful and user centered design  
 
 ### Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/umadi-alanka-m-8b3b3a304/)
+[![LinkedIn](https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg)](https://www.linkedin.com/in/umadi-alanka-m-8b3b3a304/)
+<a href="https://www.linkedin.com/in/umadi-alanka-m-8b3b3a304/">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" width="50" height="50"/>
+</a>
+
+
 
 ## Tech Stack
 
@@ -34,7 +39,6 @@
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/drawio/drawio-original.svg" width="50" height="50"/>
 </p>
 
 ### Other Tools
