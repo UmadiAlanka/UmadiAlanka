@@ -9,8 +9,8 @@
 - Passionate about thoughtful and user centered design  
 
 ### Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](your-link)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](your-link)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/umadi-alanka-m-8b3b3a304/)
+[![Instagram](https://img.shields.io/badge/mail-E4405F?logo=instagram&logoColor=white)](your-link)
 
 ### GitHub Overview
 ![Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true)
