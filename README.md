@@ -14,7 +14,8 @@
 ### GitHub Overview
 ![Stats](https://github-readme-stats.vercel.app/api?username=UmadiAlanka&show_icons=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=UmadiAlanka&layout=compact)
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=UmadiAlanka)
+![Streak](https://streak-stats.demolab.com?user=UmadiAlanka)
+
 
 
 ## Tech Stack
