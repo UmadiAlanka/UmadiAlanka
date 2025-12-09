@@ -10,8 +10,9 @@
 
 ### Connect With Me
 <a href="https://www.linkedin.com/in/umadi-alanka-m-8b3b3a304/">
-  <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" width="50" height="50" style="fill:#0A66C2"/>
 </a>
+
 
 
 
