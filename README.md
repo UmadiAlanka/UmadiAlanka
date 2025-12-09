@@ -10,7 +10,7 @@
 
 ### Connect With Me
 <a href="https://www.linkedin.com/in/umadi-alanka-m-8b3b3a304/">
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" width="50" height="50" style="background:#0A66C2; border-radius:50%; padding:5px"/>
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" width="50" height="50" style="background:#0077B5; border-radius:50%; padding:5px"/>
 </a>
 
 ## Tech Stack
