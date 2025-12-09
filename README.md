@@ -9,7 +9,6 @@
 - Passionate about thoughtful and user centered design  
 
 ### Connect With Me
-[![LinkedIn](https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg)](https://www.linkedin.com/in/umadi-alanka-m-8b3b3a304/)
 <a href="https://www.linkedin.com/in/umadi-alanka-m-8b3b3a304/">
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" width="50" height="50"/>
 </a>
