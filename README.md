@@ -11,10 +11,17 @@
 ### Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/umadi-alanka-m-8b3b3a304/)
 
-### GitHub Overview
-![Stats](https://github-readme-stats.vercel.app/api?username=UmadiAlanka&show_icons=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=UmadiAlanka&layout=compact)
-![Streak](https://streak-stats.demolab.com?user=UmadiAlanka)
+## GitHub Stats
+
+### Trophy
+![Trophy](https://github-profile-trophy.vercel.app/?username=UmadiAlanka&theme=onedark)
+
+### Contributions Graph
+![Activity Graph](https://activity-graph.herokuapp.com/graph?username=UmadiAlanka&theme=react-dark)
+
+### Streak
+![Streak](https://streak-stats.demolab.com/?user=UmadiAlanka)
+
 
 
 
