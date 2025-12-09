@@ -12,9 +12,10 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/umadi-alanka-m-8b3b3a304/)
 
 ### GitHub Overview
-![Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact)
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=your-username)
+![Stats](https://github-readme-stats.vercel.app/api?username=UmadiAlanka&show_icons=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=UmadiAlanka&layout=compact)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=UmadiAlanka)
+
 
 ## Tech Stack
 
