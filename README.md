@@ -1,12 +1,15 @@
-# Hey Everyone, I'm Umadi Alanka  
+# Hi, I'm Umadi Alanka
 
-## Welcome to My GitHub Space
+## Aspiring Technical Project Manager
 
-- Frontend development and UI design are my main focus  
-- I enjoy creating clean interfaces and simple interactions  
-- Learning React and improving my design workflow  
-- Open to collaboration on web and mobile UI projects  
-- Passionate about thoughtful and user centered design  
+I recently completed an internship as a Technical Project Manager, building experience at the intersection of technology, product delivery, and team collaboration.
+
+- Interested in turning user and business needs into clear, actionable project goals
+- Enjoy collaborating with technical and cross-functional teams
+- Use ClickUp to organize project work, track progress, and support team coordination
+- Bring a foundation in frontend development and UI/UX to conversations with engineering teams
+- Continuing to grow my skills in product and project management
+- Open to connecting with teams working on thoughtful digital products
 
 ### Connect With Me
 <a href="https://www.linkedin.com/in/umadi-alanka-m-8b3b3a304/">
@@ -44,4 +47,5 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/clickup.svg" width="50" height="50" alt="ClickUp"/>
 </p>
